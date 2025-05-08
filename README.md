@@ -1,4 +1,10 @@
-## Hello, I'm Nataliia Shobotova, a passionate Software developer. 
+## Hello, 
+I'm Nataliia Shobotova, a passionate Software developer!
+I love working on both sides of the stack and enjoy learning how everything fits together.
+
+- 🔭 I’m currently working on my personal project ['online shop'](https://github.com/samulikn/react-projects/pull/16/files).
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nodejs,npm,mongodb,figma,vscode,vite)](https://skillicons.dev)
 
 <!--
 **samulikn/samulikn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
