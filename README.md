@@ -1,6 +1,5 @@
-## Hello, 
-I'm Nataliia Shobotova, a passionate Software developer!
-I love working on both sides of the stack and enjoy learning how everything fits together.
+## Hello here 👋, I'm Nataliia.
+I'm a passionate Software developer and love working on both sides of the stack and enjoy learning how everything fits together.
 
 - 🔭 I’m currently working on my personal project ['online shop'](https://github.com/samulikn/react-projects/pull/16/files).
 
