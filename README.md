@@ -4,7 +4,7 @@ I'm a passionate Software developer and love working on both sides of the stack 
 - 🔭 I’m currently working on Front-end challenges [Frontend Mentor](https://www.frontendmentor.io/profile/samulikn).
 - ⚡ Discover my personal [website](https://natashobotova.onrender.com/index.html).
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nodejs,npm,mongodb,figma,vscode,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nodejs,npm,mongodb,figma,vscode,vite,sql)](https://skillicons.dev)
 
 <!--
 **samulikn/samulikn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
