@@ -1,7 +1,7 @@
 ## Hello here 👋, I'm Nataliia.
 I'm a passionate Software developer and love working on both sides of the stack and enjoy learning how everything fits together.
 
-- 🔭 I’m currently improving my skills with [Frontend Mentor](https://www.frontendmentor.io/profile/samulikn).
+- 🔭 I’m improving my skills with [Frontend Mentor](https://www.frontendmentor.io/profile/samulikn).
 - ⚡ Discover my personal [website](https://natashobotova.onrender.com/index.html).
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,tailwind,nodejs,npm,mongodb,figma,vscode,vite)](https://skillicons.dev)
